@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariapartel but feel free to call me Mia;
 - 👀 My interests are continuous learning, crazy adventures and commedy;
-- 🌱 I’m currently learning to code, and make less mistakes in -life and in- HTML, CSS, JavaScript, and Python;
+- 🌱 I’m currently learning to code, and make less mistakes in -life lol, and in- HTML, CSS, JavaScript, and Python;
 - 💞️ I'll collaborate by sharing various personal fun projects;
 - 📫 How to reach me: follow me on LinkedIn: https://www.linkedin.com/in/mia-partel-a510b0224/
 
