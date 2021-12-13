@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariapartel but feel free to call me Mia;
+- 👋 Hi, I’m @mariapartel;
 - 👀 My interests are continuous learning, uncommon adventures and commedy;
 - 🌱 I’m currently learning to code, make less mistakes in -life lol, and in- HTML, CSS, JavaScript, and Python;
 - 💞️ I'll collaborate by sharing various fun projects;
